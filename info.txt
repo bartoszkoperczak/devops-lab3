@@ -1,1 +1,1 @@
-To jest zdanie testowe.
+To jest moja wersja zdania testowego.
