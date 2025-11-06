@@ -1,1 +1,1 @@
-To jest zdanie testowe.
+To jest zdanie testowe z galezi feature/bartosz-koperczak.
